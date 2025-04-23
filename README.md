@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="go logo" />
+  <img width="12" />
+<div
