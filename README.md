@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-between;">
   <!--https://github.com/anuraghazra/github-readme-stats-->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoghurt321&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoghurt321&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub Stats" width="50%" />
   <!---->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoghurt321&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoghurt321&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" width="50%" />
 </div>
