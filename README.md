@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yoghurt321&theme=react&hide_border=true&area=true" />
 
 <!---->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoghurt321&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <!--https://github.com/anuraghazra/github-readme-stats-->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yoghurt321&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<div style="display: flex; justify-content: space-between;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoghurt321&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" width="45%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoghurt321&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub Stats" width="45%" />
+</div>
