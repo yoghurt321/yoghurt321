@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 
 <!---->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoghurt321&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<!--https://github.com/anuraghazra/github-readme-stats-->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
