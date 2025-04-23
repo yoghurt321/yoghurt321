@@ -1,4 +1,4 @@
-## Hi there 👋
+##🌏 Hi there 👋
 <!--https://readme-typing-svg.demolab.com/demo/?font=Cascadia+Code&lines=Hello+world!-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 <!--
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="left">👩‍💻  About Me</h3>
+
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yoghurt321&theme=react&hide_border=true&area=true" />
 
-<h3 align="left">🌏  My Languages</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 <div style="display: flex; justify-content: space-between;">
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoghurt321&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" alt="GitHub Stats" width="50%" />
