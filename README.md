@@ -1,7 +1,4 @@
 <h1 align="left">🌏 Hi there 👋</h1>
-<!--https://readme-typing-svg.demolab.com/demo/?font=Cascadia+Code&lines=Hello+world!-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Hello+world!)](https://git.io/typing-svg)
-<!--
 **yoghurt321/yoghurt321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
