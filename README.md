@@ -1,4 +1,4 @@
-##🌏 Hi there 👋
+<h1 align="left">🌏 Hi there 👋</h1>h1>
 <!--https://readme-typing-svg.demolab.com/demo/?font=Cascadia+Code&lines=Hello+world!-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 <!--
